@@ -1,9 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Altair Sossai
-=====================================================================================================================================
-
-Software Engineer
------------------
-
 Trabalho com desenvolvimento de software desde 2011, iniciei minha carreira desenvolvendo aplicações desktop utilizando Delphi 7 e a partir de 2013 migrei para tecnologias Microsoft.
 
 Sou graduado em sistemas de informação pela FHO e possuo algumas certificações oficiais Microsoft.
@@ -40,9 +34,3 @@ Minha atuação principal é o desenvolvimento back-end de aplicações web/api 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/altair-sossai" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/altair-sossai-82445a91" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/altair-sossai"><img src="https://github-readme-stats.vercel.app/api?username=altair-sossai&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="altair-sossai's GitHub stats" /></a>
